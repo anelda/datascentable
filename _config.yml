@@ -1,7 +1,6 @@
 title:              Datascentable
 email:              anelda@talarify.co.za
-description:        Learning how to work with data? I'll be sharing experiences, useful insights and 
-recipes for doing data wrangling, data visualisation or other data sciency tasks throughout my own data science capacity development journey.
+description:        Learning how to work with data? I'll be sharing experiences, useful insights and recipes for doing data wrangling, data visualisation or other data sciency tasks throughout my own data science capacity development journey.
 author:             Anelda van der Walt
 baseurl:            "/datascentable"
 url:                "https://anelda.github.io"
