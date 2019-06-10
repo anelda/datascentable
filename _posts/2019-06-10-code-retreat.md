@@ -88,9 +88,8 @@ Most of all I learned where to start with writing unit tests in Python. I absolu
 as it was presented to us and as we practiced it during the day.
 
 ##### What will you do differently on Monday?
-I said that I'll fix up a [script that I have written for data analysis](http://datascentable.org/2019/06/04/hackday.html)
-to include at least one test in it. I have read a bit about including tests in Jupyter Notebooks (in which this script was written) and
-have decided to rather move forward and start the whole process of test driven design in the next script that I write for contributing to 
+I have read a bit about including tests in Jupyter Notebooks (in which my most [recent script was written](http://datascentable.org/2019/06/04/hackday.html)) and
+have decided to start the whole process of test driven design in the a next contribution to 
 the [Metabolism of Cities](https://metabolismofcities.org/) project for which I recently became a data contributer. I'll write about
 that script and the experience of employing test driven design in a next blog post.
 
