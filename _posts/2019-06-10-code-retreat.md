@@ -12,8 +12,8 @@ On Saturday, 8 June, I participated in the [Cape Town Software Developers'](http
 [Code Retreat](https://www.meetup.com/Cape-Town-Software-Developers/events/261742542/). I had no idea what to expect there, but 
 looking at the questions and responses on their Meetup page, I noticed that the organisers - specifically Nigel Basel - were very
 friendly and tolerant of newcomers to the community. In the week leading up to the Code Retreat, I thought about what I would like 
-to learn, and came to the conclusion that I haven't spent anytime on TESTING yet but have had it on my to-do list for some time now. 
-It would be great if I could learn some testing...
+to learn, and came to the conclusion that I haven't spent anytime on testing yet but have had it on my to-do list for some time now. 
+It would be great to learn some testing...
 
 ## The Venue
 
