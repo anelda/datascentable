@@ -78,16 +78,16 @@ syntax was eluding me (like constructing classes and everything that goes with i
 
 At the end we had a Closing Circle session where everyone could report back on their experiences:
 
-#####- What did you find surprising?
+##### What did you find surprising?
 I was surprised about how kind the developers were to each other throughout the day, while they were coding, during the retro
 and during informal conversation over lunch or breaks. I've been exposed to some rather harsh developer environments in the past 
 few years, but what I found here was respectful people excited to learn from each other and grow.
 
-#####- What did you learn?
+##### What did you learn?
 Most of all I learned where to start with writing unit tests in Python. I absolutely loved the processs of test driven design
 as it was presented to us and as we practiced it during the day.
 
-#####- What will you do differently on Monday?
+##### What will you do differently on Monday?
 I said that I'll fix up a [script that I have written for data analysis](http://datascentable.org/2019/06/04/hackday.html)
 to include at least one test in it. I have read a bit about including tests in Jupyter Notebooks (in which this script was written) and
 have decided to rather move forward and start the whole process of test driven design in the next script that I write for contributing to 
