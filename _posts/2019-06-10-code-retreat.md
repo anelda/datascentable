@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Test Driven Development at a Code Retreat"
