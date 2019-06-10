@@ -40,18 +40,18 @@ We were introduced to [Conway's Game of Life](https://en.wikipedia.org/wiki/Conw
 ## The Schedule
 ### Pair up, 45 min coding, 15 min retro, 10 minute break, repeat x 5
 
-Alain and Nigel introduced us to the plan for the day after our 8am coffee. We also got to introduce ourselves shortly. 
+Alain and Nigel introduced us to the plan for the day after our 8am coffee. We also got to introduce ourselves briefly. 
 
 Low and behold! I was going to learn about testing. The whole day was about
 [Test Driven Design](https://www.freecodecamp.org/news/test-driven-development-what-it-is-and-what-it-is-not-41fa6bca02a2/)! 
 We kicked off with an introduction to test driven design and pair programming. The hosts explained what the benefits of test
-driven design is and how we were going to work in pairs to start building a product. We would try to find a mate who were 
+driven design are and how we were going to work in pairs to start building a product. We would try to find a pairing partner who were 
 interested in the same programming language or wanted to work on a similar aspect of the problem even if two people were used
 to working in different programming languages. Most of all we were supposed to **get a feeling for the rhythm of test driven 
 development rather than getting a product out** at the end of the day.
 
 At every round we were introduced to new constraints for the coding session. In one round for example, one person had to 
-write the test, and the second person had to write the code that would pass the test.
+write the test, and the second person had to write the code that would pass the test. Through this the hosts made sure everyone got a chance to put their hands on the keyboards. This is also known as ['ping-pong'](http://wiki.c2.com/?PairProgrammingPingPongPattern) pair programming.
 
 After every coding session we would head outside to the patio overlooking Table Mountain, and talk about what we learned, what
 we found surprising or hard, and how far we came. It was incredibly insightful to hear how highly experienced developers were
